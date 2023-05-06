@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Chat Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0d0ecdd-8fd7-4092-9785-44867b5a3dbd</testCaseGuid>
+   <variable>
+      <defaultValue>'bcdua'</defaultValue>
+      <description></description>
+      <id>1e7ee199-1a2f-4813-a3e1-66cc9fa16ac0</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

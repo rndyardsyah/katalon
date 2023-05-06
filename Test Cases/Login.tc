@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49c971d5-7728-4f9c-adf0-aa7347ab2676</testCaseGuid>
+   <variable>
+      <defaultValue>'topchat.prod.sellerbc1+manualtest@tokopedia.com'</defaultValue>
+      <description></description>
+      <id>f24ff37d-bcb2-4d76-bbbf-6a056f48bc52</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'tokopedia123'</defaultValue>
+      <description></description>
+      <id>c55742e6-4944-4da1-8a78-ee8d7f957c12</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
